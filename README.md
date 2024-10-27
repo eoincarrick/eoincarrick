@@ -6,9 +6,9 @@ Welcome to my **Technical Writing** repository! Here, I showcase my work as a te
 
 This repository is organized into two main sections:
 
-- **[community-resources](community-resources/)**: Here, I share links to my articles published on platforms like Hashnode, Hackernoon, FreeCodeCamp, and more. These articles cover programming tips, detailed tutorials, and other valuable resources aimed at supporting and empowering the developer community. Each link includes a brief summary to help you find the topics most relevant to you.
+- **[community-resources](community-resources.md/)**: Here, I share links to my articles published on platforms like Hashnode, Hackernoon, FreeCodeCamp, and more. These articles cover programming tips, detailed tutorials, and other valuable resources aimed at supporting and empowering the developer community. Each link includes a brief summary to help you find the topics most relevant to you.
 
-- **[professional](professional/)**: This section features my professional writing contributions for clients. These writings demonstrate my experience in delivering clear and engaging technical documentation, articles, and tutorials for a range of development and technology topics.
+- **[professional](professional.md/)**: This section features my professional writing contributions for clients. These writings demonstrate my experience in delivering clear and engaging technical documentation, articles, and tutorials for a range of development and technology topics.
 
 ## Impact
 
@@ -34,8 +34,8 @@ This repository serves as a resource for developers looking to learn, improve th
 ## Getting Started
 
 Explore the folders to find content that interests you:
-- Visit **[community-resources](community-resources/)** to dive into articles crafted for developers like you.
-- Check out **[professional](professional/)** to see examples of my client-based work and professional writing style.
+- Visit **[community-resources](community-resources.md/)** to dive into articles crafted for developers like you.
+- Check out **[professional](professional.md/)** to see examples of my client-based work and professional writing style.
 
 ## Connect with Me
 
