@@ -15,8 +15,8 @@ This repository is organized into two main sections:
 Since I started writing a year ago, my work has resonated with a growing audience. Here’s a look at the reach my articles have achieved across different platforms:
 
 - **Total Read Time Accumulated**: **168,919 minutes**
-- **Total Views**: **43,928 views**
-- **Total Words Written**: **6,000+ words**
+- **Total Views**: **53,928 views**
+- **Total Words Written**: **60,000+ words**
 
 ### Publishing Platforms
 
