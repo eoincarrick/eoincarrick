@@ -1,5 +1,6 @@
+# Professional Portfolio
 
-### Vara Network | Technical Writer  
+## Vara Network | Technical Writer  
 *Sept 2024 - Oct 2024 | Remote*
 
 - **Article 1: [Vara vs Aptos, Monad, Sui, and Sei: A Technical Deep Dive into Data Parallelism](https://hackernoon.com/vara-vs-aptos-monad-sui-and-sei-a-technical-deep-dive-into-data-parallelism)**  
@@ -12,8 +13,7 @@
 
 ---
 
-### Education
+## Education
 
 **Bachelor of Science in Marine Electrical/Electronics Engineering**  
 *2019 - 2023*
-Here’s the updated Markdown with links to the articles included:
